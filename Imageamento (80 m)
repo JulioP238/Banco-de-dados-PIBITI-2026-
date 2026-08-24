@@ -1,0 +1,17 @@
+ortomosaicos/
+│
+├── P1/
+│   ├── README.md
+│   ├── 40M/
+│   │   └── ORTOMOSAICO-P1-40M-PASTO-IFAL-SATUBA.tif
+│   ├── 60M/
+│   │   └── ORTOMOSAICO-P1-60M-PASTO-IFAL-SATUBA.tif
+│   └── 80M/
+│       └── ORTOMOSAICO-P1-80M-PASTO-IFAL-SATUBA.tif
+│
+└── M3E/
+    ├── README.md
+    ├── 40M/
+    │   └── ORTOMOSAICO-MAVIC-40M-PASTO-IFAL-SATUBA.tif
+    └── 60M/
+        └── ORTOMOSAICO-MAVIC-60M-PASTO-IFAL-SATUBA.tif
